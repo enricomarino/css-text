@@ -1,0 +1,8 @@
+{
+  "name": "css-text",
+  "repo": "enricomarino/css-text",
+  "version": "0.0.1",
+  "styles": ["style.css"],
+  "author": "Enrico Marino",
+  "license": "MIT"
+}
