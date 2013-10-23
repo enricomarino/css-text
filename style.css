@@ -46,3 +46,11 @@
 .text-lowercase {
   text-transform: lowercase !important;
 }
+
+.text-quote {
+  font-style: italic;
+}
+.text-quote:before,
+.text-quote:after {
+  content: '"';
+}
